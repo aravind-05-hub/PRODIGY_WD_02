@@ -63,7 +63,8 @@
     <ul id="laps"></ul>
   </div>
 
-  <script>let startTime, updatedTime, difference, timerInterval;
+  <script>
+    let startTime, updatedTime, difference, timerInterval;
     let running = false;
     let lapCounter = 0;
     
