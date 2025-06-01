@@ -1,3 +1,5 @@
+# PRODIGY_WD_02
+
 Internship Task Completion: Web Development – Stopwatch Application
 
 I am pleased to share that I have successfully completed my internship task focused on web development. As part of this task, I developed a fully functional Stopwatch application using HTML, CSS, and JavaScript.
